@@ -1,0 +1,12 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    box-sizing: border-box;
+}
+.main-header{
+    font-size: 48px; /* 字体大小 */
+    font-weight: bold; /* 加粗 */
+    margin: 0; /* 去除外边距 */
+    color: #fff; /* 字体颜色 */
+}
